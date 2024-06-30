@@ -1,1 +1,1 @@
-# mentoring-portal
+# CBIT Student Mentoring Portal
